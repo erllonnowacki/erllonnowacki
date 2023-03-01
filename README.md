@@ -1,6 +1,6 @@
 
-## Desenvolvedor Front-End com afinidade pela area de UI/UX!
-Além do React, venho estudando Angular e TypeScript.
+## Frontend Developer
+Current i'm learning Angular and Typescript, besides React and JavaScript.
 
 
 <div style="display: inline_block"><br>
@@ -14,6 +14,8 @@ Além do React, venho estudando Angular e TypeScript.
  <div><br>
  <img style="float: right; height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erllonnowacki&layout=compact&theme=dark&hide_title=true" />
  </div>
-  <div><br>
+ 
+ ## Contact me on Linkedin
+<div><br>
   <a href="https://www.linkedin.com/in/erllon-nowacki/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

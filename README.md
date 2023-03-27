@@ -12,7 +12,7 @@ Current i'm learning Angular and Typescript, besides React and JavaScript.
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
  <div><br>
- <img style="float: right; height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erllonnowacki&layout=compact&theme=dark&hide_title=true" />
+ <img style="float: right; height:130px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erllonnowacki&layout=compact&theme=dark&hide_title=true" />
  </div>
  
  ## Contact me on Linkedin

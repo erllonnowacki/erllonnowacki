@@ -1,6 +1,5 @@
-
 ## Frontend Developer
-Current i'm learning Angular and Typescript, besides React and JavaScript.
+Frontend developer with focus in React and Angular. Current im learning Threejs.
 
 
 <div style="display: inline_block"><br>
